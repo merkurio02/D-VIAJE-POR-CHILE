@@ -1,0 +1,36 @@
+
+
+ /* BRACKGROUND */
+.bg-eblue{
+    background: #53B4BA;
+}
+
+.bg-black{
+    background: #000;
+}
+
+
+/* TEXT */
+.text-justify{
+    text-align: justify !important;
+}
+
+.text-roboto{
+    font-family:  'Roboto', sans-serif;
+}
+
+
+
+/* BORDER */
+.border-2px{
+    border:2px;
+}
+.border-b{
+    border-top: 0;
+    border-left: 0;
+    border-right: 0;
+}
+.border-eblue{
+    border:solid #53B4BA !important ;
+
+}
