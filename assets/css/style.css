@@ -1,4 +1,11 @@
+html{
+    scroll-behavior: smooth;
+}
 
+#nav-ico{
+    width: 30px;
+    height: 30px;
+}
 
  /* BRACKGROUND */
 .bg-eblue{
